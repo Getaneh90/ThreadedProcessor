@@ -1,3 +1,8 @@
+Project Overview:
+This project involves implementing a program to gain hands on experience with threads, mutual exclusion, and condition variables in C.
+
+Main Program File: line_processor.c
+
 How to comile and run 
 
 Run the following: 
