@@ -1,10 +1,3 @@
-/* Assignment Description: In this assignment, you'll write a program that will get you
-** familiar with the use of threads, mutual exclusion and condition variables.
-** Author: Getaneh Kudna
-** Program: line_processor.c
-**
-
-*/
 #include <readline/readline.h>
 #include <readline/history.h>
 #include <assert.h>
